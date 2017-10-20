@@ -1,3 +1,5 @@
+package Chapter2;
+
 // **************************************************
 //   LuckyNumbers.java
 //   Author: A. Starr
